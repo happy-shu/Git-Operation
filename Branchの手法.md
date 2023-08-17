@@ -23,6 +23,13 @@
    ![Alt text](image-6.png)
 6. 指示通り、オプションをつけて、プッシュする
    `git push --set-upstream origin NewBranch`
-
+   ![Alt text](image-7.png)
+   GitHub 側に何か出た。
+   [pull requestとは?](https://backlog.com/ja/git-tutorial/pull-request/01/)
+   ![Alt text](image-8.png)
+7. 今回はPull Requestをやってしまう。（実験なので）
+    ![Alt text](image-9.png)
+8. Pull Request を承認しちゃう。＝Mergeする
+   ![Alt text](image-10.png)
 
  
