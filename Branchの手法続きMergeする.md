@@ -8,3 +8,6 @@
 2. まずはメインブランチに移動する（main）
    - `$ git checkout main`
 3. 実行コマンド結果
+   - ![Alt text](image-3.png)
+4. Git Mergeコマンドを実行！！
+   - `git merge NewBranch`
