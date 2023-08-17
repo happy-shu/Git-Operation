@@ -11,3 +11,5 @@
    - ![Alt text](image-3.png)
 4. Git Mergeコマンドを実行！！
    - `git merge NewBranch`
+5. Branch を削除する
+   - `git branch -d NewBranch`
