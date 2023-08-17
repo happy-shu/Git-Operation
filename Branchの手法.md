@@ -17,3 +17,12 @@
    `git add <file>`
    `git commit -m "BranchTest"`
    `git push origin`
+   ![Alt text](image-4.png)
+   というエラーが出るので、、、NG
+   これは、新規Branchがまだ無いため…。仕方ない
+   ![Alt text](image-6.png)
+6. 指示通り、オプションをつけて、プッシュする
+   `git push --set-upstream origin NewBranch`
+
+
+ 
