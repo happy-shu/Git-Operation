@@ -7,7 +7,7 @@ READMEを編集して、アップロードする作業下記の流れ
  - Gitのステージングに上げる
  - Commitする 
 
-#### Step0. 修正項目
+#### Step0. 修正テスト（修正したら保存すること）
   - 何か修正を入れる。修正A
   - 修正B
 
@@ -17,7 +17,10 @@ READMEを編集して、アップロードする作業下記の流れ
 #### Step2. Commit する -m はコメント
 `git commit -m "Opartation Test"`
 
-#### Step3. Push する（アップロード）
+#### Step3. Git log でコミット内容を確認できる
+`git log`
+
+#### Step4. Push する（アップロード）
 `git push origin`
 
 
