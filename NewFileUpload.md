@@ -6,6 +6,7 @@ NewFileUpload.mdを編集して、アップロードする作業下記の流れ
  2. Gitのステージングに上げる（Add）
  3. Commitする 
  4. pushする
+ 5. test
 
 #### Step0. New File
   - This is New File
